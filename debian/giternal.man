@@ -1,0 +1,11 @@
+.TH giternal 1  "December 30, 2009" "version 0.1.0" "USER COMMANDS"
+.SH NAME
+giternal \- non-sucky git externals
+.SH DESCRIPTION
+Please see http://github.com/patmaddox/giternal
+.PP
+.SH AUTHOR
+Pat Maddox
+.SH SEE ALSO
+eject(1)
+

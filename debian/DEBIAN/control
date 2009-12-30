@@ -1,14 +1,13 @@
 Package: giternal
 Version: 0.1.0
-Section: devel 
+Section: devel
 Priority: optional
 Architecture: all
-Essential: no
 Depends: rubygems, ruby, git-core
 Recommends: 
 Suggests: 
-Maintainer: Julian Simposn [medic@build-doctor.com]
+Maintainer: Julian Simpson <medic@build-doctor.com>
 Replaces: 
 Description: Non-sucky git externals
-	When tracking externals, the most important thing is knowing my libraries work together, and second I can try to stay up to date. When I update an external, I would run rake. If it passes, keep that version. If not, look at what it would take to take for my code and the library code to work. If I feel like I can do it, I do, otherwise I unfreeze and stay on the older working version.
+ Pat Maddox's Ruby based tool for managing Git externals with a dotfile.
 
